@@ -1,5 +1,5 @@
 # Leetcode-Problem-and-Solutions 🚀
-Here you got all the solutions of Leetcode problems with code and solution video as much as possible
+Here you got all the solutions of Leetcode problems with code and solution video as much as possible in HINDI
 
 ## Arrays 🚀
 | LeetCode Quesions  | LeetCode | Code Solutions | Video Solutions | HINT
