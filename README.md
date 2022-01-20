@@ -8,3 +8,4 @@ Valid Moutain Array | [Solve](https://leetcode.com/problems/valid-mountain-array
 
 preface.md
 [button url="http://www.google.com"]
+[Click me](http://www.google.com){: .btn}
