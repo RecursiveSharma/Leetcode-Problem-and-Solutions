@@ -6,4 +6,4 @@ Here you got all the solutions of Leetcode problems with code and solution video
 | ------------- | :-------------: | :-------------: | :---------: |:---------: |
 Valid Moutain Array | [Solve](https://leetcode.com/problems/valid-mountain-array/) | [Code](https://github.com/RecursiveSharma/Leetcode-Problem-and-Solutions/blob/main/ValidMoutainArray.md) | [Video](https://youtu.be/tVDTjm_fYbQ) | 2 pointers
 
-01_preface.md
+preface.md
